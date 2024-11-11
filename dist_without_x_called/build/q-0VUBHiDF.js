@@ -1,0 +1,1 @@
+import{h as c}from"./q-B9R08C_P.js";import{_hW as i}from"./q-B9R08C_P.js";const n=r=>{const[e,o]=c();return r!=null&&r.length&&[...r].reduce((t,s)=>t+s.size,0)<o?e:""};export{i as _hW,n as s_gpOOHhKmlwM};

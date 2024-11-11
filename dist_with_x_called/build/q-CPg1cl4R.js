@@ -1,0 +1,1 @@
+import{h as o}from"./q-B9R08C_P.js";import{_hW as h}from"./q-B9R08C_P.js";const e=r=>{const[s]=o();return r&&!/^(([^<>()[\].,;:\s@"]+(\.[^<>()[\].,;:\s@"]+)*)|(".+"))@(([^<>()[\].,;:\s@"]+\.)+[^<>()[\].,;:\s@"]{2,})$/i.test(r)?s:""};export{h as _hW,e as s_hKzYzN0XgYQ};

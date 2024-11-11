@@ -1,0 +1,1 @@
+import{h as t}from"./q-B9R08C_P.js";import{_hW as n}from"./q-B9R08C_P.js";const m=r=>{const[o,e]=t();return r&&(Array.isArray(r)?[...r].some(s=>s.size<e):r.size<e)?o:""};export{n as _hW,m as s_1W1VpM0mRas};
